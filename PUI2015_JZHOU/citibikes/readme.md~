@@ -1,0 +1,7 @@
+# PUI2015_jzhou
+
+# Assignment 1
+6 different distributions (600 samples in total) were created: Chi-Squared Distribution, Normal Distribution, Poisson Distribution, Binomial Distribution, Wald Distribution, and Logistic Distribution. Each of them was plotted as a histogram and a scatter plot. At the end, the distribution of all sample means was plotted as a histogram.
+
+# Assignment 2
+The second part of Z-test and Chi-Squared test was completed according to the instructions. 
