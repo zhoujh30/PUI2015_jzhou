@@ -10,6 +10,6 @@ I used python to make a US County choropleth Map (Carbon Emissions per Capita by
 3. Color schemes from ColorBrewer (http://colorbrewer2.org)
 
 ##Outputs:
-![Alt text](output.png)
+![Alt text](https://raw.githubusercontent.com/zhoujh30/PUI2015_jzhou/master/HW8/Output.png)
 
-![Alt text](legend.png)
+![Alt text](https://raw.githubusercontent.com/zhoujh30/PUI2015_jzhou/master/HW8/Legend.png)
